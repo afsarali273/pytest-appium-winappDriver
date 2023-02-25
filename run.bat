@@ -1,0 +1,1 @@
+pytest --htm=./reports/report.html
